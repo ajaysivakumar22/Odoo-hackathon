@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 GlobeTrotter - Premium Travel Planning Redefined
 
 GlobeTrotter is a state-of-the-art travel planning application designed to provide a seamless, visual, and highly interactive experience for modern travelers. Built with a **Premium Glassmorphism Design System**, it combines high-end aesthetics with powerful relational data management.
@@ -117,3 +118,6 @@ To experience the full power of GlobeTrotter, follow this testing path:
 
 ---
 *Created with ❤️ for the Odoo SNS Hackathon.*
+=======
+# Odoo-hackathon
+>>>>>>> c38c37761b975d9c49f27ddcd85d817f2bce9fe0
